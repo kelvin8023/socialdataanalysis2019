@@ -1,0 +1,11 @@
+Area,Daylight: Street light present,Darkness: Street lights present and lit,Darkness: Street lighting unknown,Darkness: Street lights present but unlit,Darkeness: No street lighting,Total
+Greater London,102432,39981,1027,284,257,41549
+Surrey,16997,4218,915,99,1617,6849
+Essex,14945,3463,247,143,1588,5441
+Kent,22293,4449,418,286,1968,7121
+Hertfordshire,12005,3385,64,90,833,4372
+North Yorkshire,6627,758,42,40,1086,1926
+Lancashire,15267,3959,110,103,699,4871
+Manchester,6913,2734,271,32,35,3072
+Hampshire,14612,3157,187,84,1969,5397
+Devon,9324,1056,57,36,1179,2328
