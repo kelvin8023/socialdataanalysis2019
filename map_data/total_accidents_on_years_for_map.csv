@@ -1,0 +1,2281 @@
+,Year,name,accident_num
+0,2009,Aberdeen City,441
+1,2009,Aberdeenshire,688
+2,2009,Adur,157
+3,2009,Allerdale,298
+4,2009,Amber Valley,336
+5,2009,Angus,231
+6,2009,Argyll and Bute,280
+7,2009,Arun,338
+8,2009,Ashfield,340
+9,2009,Ashford,425
+10,2009,Aylesbury Vale,470
+11,2009,Babergh,259
+12,2009,Barking and Dagenham,401
+13,2009,Barnet,1039
+14,2009,Barnsley,605
+15,2009,Barrow-in-Furness,156
+16,2009,Basildon,403
+17,2009,Basingstoke and Deane,333
+18,2009,Bassetlaw,359
+19,2009,Bath and North East Somerset,427
+20,2009,Bedford,385
+21,2009,Bexley,477
+22,2009,Birmingham,3292
+23,2009,Blaby,276
+24,2009,Blackburn with Darwen,463
+25,2009,Blackpool,520
+26,2009,Blaenau Gwent,112
+27,2009,Bolsover,246
+28,2009,Bolton,652
+29,2009,Boston,215
+30,2009,Bournemouth,551
+31,2009,Bracknell Forest,239
+32,2009,Bradford,1567
+33,2009,Braintree,322
+34,2009,Breckland,285
+35,2009,Brent,750
+36,2009,Brentwood,181
+37,2009,Bridgend,300
+38,2009,Brighton and Hove,889
+39,2009,"Bristol, City of",1179
+40,2009,Broadland,274
+41,2009,Bromley,707
+42,2009,Bromsgrove,252
+43,2009,Broxbourne,195
+44,2009,Broxtowe,277
+45,2009,Burnley,279
+46,2009,Bury,464
+47,2009,Caerphilly,251
+48,2009,Calderdale,564
+49,2009,Cambridge,441
+50,2009,Camden,805
+51,2009,Cannock Chase,238
+52,2009,Canterbury,403
+53,2009,Cardiff,795
+54,2009,Carlisle,295
+55,2009,Carmarthenshire,515
+56,2009,Castle Point,226
+57,2009,Central Bedfordshire,718
+58,2009,Ceredigion,225
+59,2009,Charnwood,332
+60,2009,Chelmsford,435
+61,2009,Cheltenham,180
+62,2009,Cherwell,430
+63,2009,Cheshire East,1297
+64,2009,Cheshire West and Chester,993
+65,2009,Chesterfield,286
+66,2009,Chichester,360
+67,2009,Chiltern,198
+68,2009,Chorley,300
+69,2009,Christchurch,121
+70,2009,City of Edinburgh,1191
+71,2009,City of London,299
+72,2009,Clackmannanshire,77
+73,2009,Colchester,392
+74,2009,Conwy,326
+75,2009,Copeland,180
+76,2009,Corby,139
+77,2009,Cornwall,1495
+78,2009,Cotswold,212
+79,2009,County Durham,1385
+80,2009,Coventry,698
+81,2009,Craven,183
+82,2009,Crawley,258
+83,2009,Croydon,918
+84,2009,Dacorum,310
+85,2009,Darlington,297
+86,2009,Dartford,415
+87,2009,Daventry,216
+88,2009,Denbighshire,268
+89,2009,Derby,822
+90,2009,Derbyshire Dales,276
+91,2009,Doncaster,999
+92,2009,Dover,310
+93,2009,Dudley,682
+94,2009,Dumfries and Galloway,388
+95,2009,Dundee City,282
+96,2009,Ealing,899
+97,2009,East Ayrshire,212
+98,2009,East Cambridgeshire,219
+99,2009,East Devon,361
+100,2009,East Dorset,221
+101,2009,East Dunbartonshire,147
+102,2009,East Hampshire,254
+103,2009,East Hertfordshire,267
+104,2009,East Lindsey,530
+105,2009,East Lothian,174
+106,2009,East Northamptonshire,156
+107,2009,East Renfrewshire,101
+108,2009,East Riding of Yorkshire,766
+109,2009,East Staffordshire,368
+110,2009,Eastbourne,242
+111,2009,Eastleigh,331
+112,2009,Eden,203
+113,2009,Elmbridge,381
+114,2009,Enfield,743
+115,2009,Epping Forest,443
+116,2009,Epsom and Ewell,177
+117,2009,Erewash,306
+118,2009,Exeter,296
+119,2009,Falkirk,301
+120,2009,Fareham,227
+121,2009,Fenland,292
+122,2009,Fife,578
+123,2009,Flintshire,348
+124,2009,Forest Heath,198
+125,2009,Forest of Dean,200
+126,2009,Fylde,253
+127,2009,Gateshead,635
+128,2009,Gedling,263
+129,2009,Glasgow City,1506
+130,2009,Gloucester,222
+131,2009,Gosport,181
+132,2009,Gravesham,281
+133,2009,Great Yarmouth,191
+134,2009,Greenwich,687
+135,2009,Guildford,631
+136,2009,Gwynedd,317
+137,2009,Hackney,779
+138,2009,Halton,292
+139,2009,Hambleton,297
+140,2009,Hammersmith and Fulham,623
+141,2009,Harborough,224
+142,2009,Haringey,761
+143,2009,Harlow,131
+144,2009,Harrogate,471
+145,2009,Harrow,449
+146,2009,Hart,196
+147,2009,Hartlepool,150
+148,2009,Hastings,244
+149,2009,Havant,270
+150,2009,Havering,587
+151,2009,"Herefordshire, County of",574
+152,2009,Hertsmere,344
+153,2009,High Peak,252
+154,2009,Highland,609
+155,2009,Hillingdon,768
+156,2009,Hinckley and Bosworth,248
+157,2009,Horsham,376
+158,2009,Hounslow,736
+159,2009,Huntingdonshire,527
+160,2009,Hyndburn,226
+161,2009,Inverclyde,145
+162,2009,Ipswich,318
+163,2009,Isle of Anglesey,143
+164,2009,Isle of Wight,355
+165,2009,Isles of Scilly,3
+166,2009,Islington,697
+167,2009,Kensington and Chelsea,696
+168,2009,Kettering,204
+169,2009,King's Lynn and West Norfolk,355
+170,2009,"Kingston upon Hull, City of",733
+171,2009,Kingston upon Thames,379
+172,2009,Kirklees,1095
+173,2009,Knowsley,342
+174,2009,Lambeth,1151
+175,2009,Lancaster,491
+176,2009,Leeds,2184
+177,2009,Leicester,1000
+178,2009,Lewes,273
+179,2009,Lewisham,831
+180,2009,Lichfield,297
+181,2009,Lincoln,319
+182,2009,Liverpool,1278
+183,2009,Luton,470
+184,2009,Maidstone,514
+185,2009,Maldon,117
+186,2009,Malvern Hills,232
+187,2009,Manchester,1702
+188,2009,Mansfield,298
+189,2009,Medway,671
+190,2009,Melton,127
+191,2009,Mendip,307
+192,2009,Merthyr Tydfil,107
+193,2009,Merton,395
+194,2009,Mid Devon,195
+195,2009,Mid Suffolk,242
+196,2009,Mid Sussex,373
+197,2009,Middlesbrough,288
+198,2009,Midlothian,207
+199,2009,Milton Keynes,708
+200,2009,Mole Valley,291
+201,2009,Monmouthshire,156
+202,2009,Moray,198
+203,2009,Na h-Eileanan Siar,34
+204,2009,Neath Port Talbot,315
+205,2009,New Forest,483
+206,2009,Newark and Sherwood,366
+207,2009,Newcastle upon Tyne,859
+208,2009,Newcastle-under-Lyme,319
+209,2009,Newham,772
+210,2009,Newport,336
+211,2009,North Ayrshire,223
+212,2009,North Devon,239
+213,2009,North Dorset,179
+214,2009,North East Derbyshire,261
+215,2009,North East Lincolnshire,536
+216,2009,North Hertfordshire,317
+217,2009,North Kesteven,352
+218,2009,North Lanarkshire,663
+219,2009,North Lincolnshire,523
+220,2009,North Norfolk,206
+221,2009,North Somerset,483
+222,2009,North Tyneside,470
+223,2009,North Warwickshire,275
+224,2009,North West Leicestershire,279
+225,2009,Northampton,379
+226,2009,Northumberland,915
+227,2009,Norwich,337
+228,2009,Nottingham,990
+229,2009,Nuneaton and Bedworth,278
+230,2009,Oadby and Wigston,106
+231,2009,Oldham,472
+232,2009,Orkney Islands,27
+233,2009,Oxford,372
+234,2009,Pembrokeshire,368
+235,2009,Pendle,201
+236,2009,Perth and Kinross,395
+237,2009,Peterborough,730
+238,2009,Plymouth,675
+239,2009,Poole,362
+240,2009,Portsmouth,595
+241,2009,Powys,435
+242,2009,Preston,637
+243,2009,Purbeck,144
+244,2009,Reading,396
+245,2009,Redbridge,607
+246,2009,Redcar and Cleveland,219
+247,2009,Redditch,165
+248,2009,Reigate and Banstead,489
+249,2009,Renfrewshire,315
+250,2009,Rhondda Cynon Taf,490
+251,2009,Ribble Valley,146
+252,2009,Richmond upon Thames,373
+253,2009,Richmondshire,181
+254,2009,Rochdale,481
+255,2009,Rochford,170
+256,2009,Rossendale,193
+257,2009,Rother,280
+258,2009,Rotherham,739
+259,2009,Rugby,315
+260,2009,Runnymede,361
+261,2009,Rushcliffe,324
+262,2009,Rushmoor,201
+263,2009,Rutland,98
+264,2009,Ryedale,184
+265,2009,Salford,634
+266,2009,Sandwell,881
+267,2009,Scarborough,300
+268,2009,Scottish Borders,363
+269,2009,Sedgemoor,334
+270,2009,Sefton,579
+271,2009,Selby,245
+272,2009,Sevenoaks,379
+273,2009,Sheffield,1458
+274,2009,Shepway,271
+275,2009,Shetland Islands,40
+276,2009,Shropshire,797
+277,2009,Slough,420
+278,2009,Solihull,492
+279,2009,South Ayrshire,266
+280,2009,South Bucks,309
+281,2009,South Cambridgeshire,458
+282,2009,South Derbyshire,210
+283,2009,South Gloucestershire,606
+284,2009,South Hams,254
+285,2009,South Holland,249
+286,2009,South Kesteven,371
+287,2009,South Lakeland,340
+288,2009,South Lanarkshire,591
+289,2009,South Norfolk,308
+290,2009,South Northamptonshire,221
+291,2009,South Oxfordshire,356
+292,2009,South Ribble,336
+293,2009,South Somerset,407
+294,2009,South Staffordshire,362
+295,2009,South Tyneside,319
+296,2009,Southampton,625
+297,2009,Southend-on-Sea,448
+298,2009,Southwark,957
+299,2009,Spelthorne,321
+300,2009,St Albans,437
+301,2009,St Edmundsbury,269
+302,2009,St. Helens,342
+303,2009,Stafford,433
+304,2009,Staffordshire Moorlands,288
+305,2009,Stevenage,190
+306,2009,Stirling,249
+307,2009,Stockport,547
+308,2009,Stockton-on-Tees,307
+309,2009,Stoke-on-Trent,771
+310,2009,Stratford-on-Avon,357
+311,2009,Stroud,219
+312,2009,Suffolk Coastal,326
+313,2009,Sunderland,747
+314,2009,Surrey Heath,327
+315,2009,Sutton,381
+316,2009,Swale,392
+317,2009,Swansea,586
+318,2009,Swindon,448
+319,2009,Tameside,454
+320,2009,Tamworth,159
+321,2009,Tandridge,430
+322,2009,Taunton Deane,276
+323,2009,Teignbridge,364
+324,2009,Telford and Wrekin,369
+325,2009,Tendring,335
+326,2009,Test Valley,270
+327,2009,Tewkesbury,222
+328,2009,Thanet,398
+329,2009,Three Rivers,231
+330,2009,Thurrock,438
+331,2009,Tonbridge and Malling,395
+332,2009,Torbay,302
+333,2009,Torfaen,126
+334,2009,Torridge,154
+335,2009,Tower Hamlets,777
+336,2009,Trafford,481
+337,2009,Tunbridge Wells,299
+338,2009,Uttlesford,180
+339,2009,Vale of Glamorgan,280
+340,2009,Vale of White Horse,286
+341,2009,Wakefield,843
+342,2009,Walsall,608
+343,2009,Waltham Forest,592
+344,2009,Wandsworth,828
+345,2009,Warrington,685
+346,2009,Warwick,347
+347,2009,Watford,211
+348,2009,Waveney,330
+349,2009,Waverley,376
+350,2009,Wealden,469
+351,2009,Wellingborough,158
+352,2009,Welwyn Hatfield,285
+353,2009,West Berkshire,394
+354,2009,West Devon,175
+355,2009,West Dorset,317
+356,2009,West Dunbartonshire,172
+357,2009,West Lancashire,328
+358,2009,West Lindsey,310
+359,2009,West Lothian,410
+360,2009,West Oxfordshire,258
+361,2009,West Somerset,91
+362,2009,Westminster,1393
+363,2009,Weymouth and Portland,151
+364,2009,Wigan,624
+365,2009,Wiltshire,936
+366,2009,Winchester,374
+367,2009,Windsor and Maidenhead,378
+368,2009,Wirral,669
+369,2009,Woking,283
+370,2009,Wokingham,308
+371,2009,Wolverhampton,634
+372,2009,Worcester,228
+373,2009,Worthing,255
+374,2009,Wrexham,320
+375,2009,Wychavon,322
+376,2009,Wycombe,396
+377,2009,Wyre,328
+378,2009,Wyre Forest,273
+379,2009,York,484
+380,2010,Aberdeen City,346
+381,2010,Aberdeenshire,600
+382,2010,Adur,129
+383,2010,Allerdale,226
+384,2010,Amber Valley,296
+385,2010,Angus,193
+386,2010,Argyll and Bute,274
+387,2010,Arun,315
+388,2010,Ashfield,317
+389,2010,Ashford,397
+390,2010,Aylesbury Vale,406
+391,2010,Babergh,239
+392,2010,Barking and Dagenham,448
+393,2010,Barnet,1142
+394,2010,Barnsley,574
+395,2010,Barrow-in-Furness,125
+396,2010,Basildon,366
+397,2010,Basingstoke and Deane,338
+398,2010,Bassetlaw,363
+399,2010,Bath and North East Somerset,370
+400,2010,Bedford,410
+401,2010,Bexley,470
+402,2010,Birmingham,2885
+403,2010,Blaby,288
+404,2010,Blackburn with Darwen,410
+405,2010,Blackpool,492
+406,2010,Blaenau Gwent,106
+407,2010,Bolsover,226
+408,2010,Bolton,579
+409,2010,Boston,247
+410,2010,Bournemouth,510
+411,2010,Bracknell Forest,230
+412,2010,Bradford,1438
+413,2010,Braintree,291
+414,2010,Breckland,295
+415,2010,Brent,826
+416,2010,Brentwood,208
+417,2010,Bridgend,268
+418,2010,Brighton and Hove,900
+419,2010,"Bristol, City of",1083
+420,2010,Broadland,222
+421,2010,Bromley,692
+422,2010,Bromsgrove,236
+423,2010,Broxbourne,211
+424,2010,Broxtowe,236
+425,2010,Burnley,237
+426,2010,Bury,345
+427,2010,Caerphilly,228
+428,2010,Calderdale,477
+429,2010,Cambridge,409
+430,2010,Camden,829
+431,2010,Cannock Chase,222
+432,2010,Canterbury,404
+433,2010,Cardiff,742
+434,2010,Carlisle,254
+435,2010,Carmarthenshire,482
+436,2010,Castle Point,133
+437,2010,Central Bedfordshire,695
+438,2010,Ceredigion,207
+439,2010,Charnwood,360
+440,2010,Chelmsford,436
+441,2010,Cheltenham,168
+442,2010,Cherwell,441
+443,2010,Cheshire East,1113
+444,2010,Cheshire West and Chester,946
+445,2010,Chesterfield,265
+446,2010,Chichester,313
+447,2010,Chiltern,157
+448,2010,Chorley,321
+449,2010,Christchurch,114
+450,2010,City of Edinburgh,1179
+451,2010,City of London,333
+452,2010,Clackmannanshire,68
+453,2010,Colchester,355
+454,2010,Conwy,282
+455,2010,Copeland,165
+456,2010,Corby,106
+457,2010,Cornwall,1409
+458,2010,Cotswold,241
+459,2010,County Durham,1178
+460,2010,Coventry,600
+461,2010,Craven,186
+462,2010,Crawley,239
+463,2010,Croydon,924
+464,2010,Dacorum,324
+465,2010,Darlington,240
+466,2010,Dartford,443
+467,2010,Daventry,185
+468,2010,Denbighshire,273
+469,2010,Derby,798
+470,2010,Derbyshire Dales,201
+471,2010,Doncaster,943
+472,2010,Dover,279
+473,2010,Dudley,559
+474,2010,Dumfries and Galloway,358
+475,2010,Dundee City,218
+476,2010,Ealing,866
+477,2010,East Ayrshire,200
+478,2010,East Cambridgeshire,216
+479,2010,East Devon,284
+480,2010,East Dorset,217
+481,2010,East Dunbartonshire,137
+482,2010,East Hampshire,278
+483,2010,East Hertfordshire,277
+484,2010,East Lindsey,530
+485,2010,East Lothian,199
+486,2010,East Northamptonshire,123
+487,2010,East Renfrewshire,99
+488,2010,East Riding of Yorkshire,791
+489,2010,East Staffordshire,369
+490,2010,Eastbourne,197
+491,2010,Eastleigh,316
+492,2010,Eden,185
+493,2010,Elmbridge,388
+494,2010,Enfield,826
+495,2010,Epping Forest,479
+496,2010,Epsom and Ewell,135
+497,2010,Erewash,264
+498,2010,Exeter,260
+499,2010,Falkirk,239
+500,2010,Fareham,277
+501,2010,Fenland,279
+502,2010,Fife,550
+503,2010,Flintshire,373
+504,2010,Forest Heath,165
+505,2010,Forest of Dean,159
+506,2010,Fylde,257
+507,2010,Gateshead,579
+508,2010,Gedling,248
+509,2010,Glasgow City,1341
+510,2010,Gloucester,223
+511,2010,Gosport,161
+512,2010,Gravesham,240
+513,2010,Great Yarmouth,163
+514,2010,Greenwich,674
+515,2010,Guildford,539
+516,2010,Gwynedd,336
+517,2010,Hackney,741
+518,2010,Halton,298
+519,2010,Hambleton,231
+520,2010,Hammersmith and Fulham,580
+521,2010,Harborough,215
+522,2010,Haringey,805
+523,2010,Harlow,133
+524,2010,Harrogate,439
+525,2010,Harrow,473
+526,2010,Hart,213
+527,2010,Hartlepool,142
+528,2010,Hastings,197
+529,2010,Havant,256
+530,2010,Havering,617
+531,2010,"Herefordshire, County of",476
+532,2010,Hertsmere,356
+533,2010,High Peak,223
+534,2010,Highland,470
+535,2010,Hillingdon,859
+536,2010,Hinckley and Bosworth,201
+537,2010,Horsham,281
+538,2010,Hounslow,780
+539,2010,Huntingdonshire,477
+540,2010,Hyndburn,229
+541,2010,Inverclyde,164
+542,2010,Ipswich,305
+543,2010,Isle of Anglesey,118
+544,2010,Isle of Wight,400
+545,2010,Isles of Scilly,1
+546,2010,Islington,731
+547,2010,Kensington and Chelsea,761
+548,2010,Kettering,191
+549,2010,King's Lynn and West Norfolk,316
+550,2010,"Kingston upon Hull, City of",723
+551,2010,Kingston upon Thames,340
+552,2010,Kirklees,1087
+553,2010,Knowsley,329
+554,2010,Lambeth,1096
+555,2010,Lancaster,446
+556,2010,Leeds,1952
+557,2010,Leicester,975
+558,2010,Lewes,246
+559,2010,Lewisham,795
+560,2010,Lichfield,320
+561,2010,Lincoln,295
+562,2010,Liverpool,1334
+563,2010,Luton,509
+564,2010,Maidstone,471
+565,2010,Maldon,129
+566,2010,Malvern Hills,196
+567,2010,Manchester,1425
+568,2010,Mansfield,253
+569,2010,Medway,557
+570,2010,Melton,135
+571,2010,Mendip,264
+572,2010,Merthyr Tydfil,115
+573,2010,Merton,394
+574,2010,Mid Devon,163
+575,2010,Mid Suffolk,242
+576,2010,Mid Sussex,322
+577,2010,Middlesbrough,305
+578,2010,Midlothian,193
+579,2010,Milton Keynes,646
+580,2010,Mole Valley,335
+581,2010,Monmouthshire,138
+582,2010,Moray,141
+583,2010,Na h-Eileanan Siar,38
+584,2010,Neath Port Talbot,319
+585,2010,New Forest,467
+586,2010,Newark and Sherwood,353
+587,2010,Newcastle upon Tyne,774
+588,2010,Newcastle-under-Lyme,338
+589,2010,Newham,779
+590,2010,Newport,305
+591,2010,North Ayrshire,177
+592,2010,North Devon,213
+593,2010,North Dorset,158
+594,2010,North East Derbyshire,277
+595,2010,North East Lincolnshire,446
+596,2010,North Hertfordshire,260
+597,2010,North Kesteven,349
+598,2010,North Lanarkshire,587
+599,2010,North Lincolnshire,501
+600,2010,North Norfolk,193
+601,2010,North Somerset,465
+602,2010,North Tyneside,424
+603,2010,North Warwickshire,293
+604,2010,North West Leicestershire,268
+605,2010,Northampton,378
+606,2010,Northumberland,852
+607,2010,Norwich,340
+608,2010,Nottingham,962
+609,2010,Nuneaton and Bedworth,281
+610,2010,Oadby and Wigston,100
+611,2010,Oldham,433
+612,2010,Orkney Islands,27
+613,2010,Oxford,364
+614,2010,Pembrokeshire,344
+615,2010,Pendle,203
+616,2010,Perth and Kinross,328
+617,2010,Peterborough,707
+618,2010,Plymouth,710
+619,2010,Poole,410
+620,2010,Portsmouth,578
+621,2010,Powys,424
+622,2010,Preston,529
+623,2010,Purbeck,123
+624,2010,Reading,357
+625,2010,Redbridge,725
+626,2010,Redcar and Cleveland,229
+627,2010,Redditch,132
+628,2010,Reigate and Banstead,455
+629,2010,Renfrewshire,320
+630,2010,Rhondda Cynon Taf,425
+631,2010,Ribble Valley,160
+632,2010,Richmond upon Thames,402
+633,2010,Richmondshire,133
+634,2010,Rochdale,404
+635,2010,Rochford,127
+636,2010,Rossendale,185
+637,2010,Rother,265
+638,2010,Rotherham,648
+639,2010,Rugby,262
+640,2010,Runnymede,350
+641,2010,Rushcliffe,272
+642,2010,Rushmoor,209
+643,2010,Rutland,95
+644,2010,Ryedale,158
+645,2010,Salford,498
+646,2010,Sandwell,685
+647,2010,Scarborough,286
+648,2010,Scottish Borders,306
+649,2010,Sedgemoor,292
+650,2010,Sefton,557
+651,2010,Selby,224
+652,2010,Sevenoaks,362
+653,2010,Sheffield,1295
+654,2010,Shepway,285
+655,2010,Shetland Islands,29
+656,2010,Shropshire,711
+657,2010,Slough,452
+658,2010,Solihull,415
+659,2010,South Ayrshire,199
+660,2010,South Bucks,322
+661,2010,South Cambridgeshire,464
+662,2010,South Derbyshire,273
+663,2010,South Gloucestershire,621
+664,2010,South Hams,218
+665,2010,South Holland,308
+666,2010,South Kesteven,372
+667,2010,South Lakeland,328
+668,2010,South Lanarkshire,506
+669,2010,South Norfolk,264
+670,2010,South Northamptonshire,192
+671,2010,South Oxfordshire,336
+672,2010,South Ribble,341
+673,2010,South Somerset,355
+674,2010,South Staffordshire,393
+675,2010,South Tyneside,310
+676,2010,Southampton,649
+677,2010,Southend-on-Sea,436
+678,2010,Southwark,991
+679,2010,Spelthorne,287
+680,2010,St Albans,415
+681,2010,St Edmundsbury,299
+682,2010,St. Helens,324
+683,2010,Stafford,436
+684,2010,Staffordshire Moorlands,270
+685,2010,Stevenage,169
+686,2010,Stirling,234
+687,2010,Stockport,479
+688,2010,Stockton-on-Tees,320
+689,2010,Stoke-on-Trent,731
+690,2010,Stratford-on-Avon,368
+691,2010,Stroud,163
+692,2010,Suffolk Coastal,296
+693,2010,Sunderland,653
+694,2010,Surrey Heath,313
+695,2010,Sutton,386
+696,2010,Swale,346
+697,2010,Swansea,688
+698,2010,Swindon,386
+699,2010,Tameside,360
+700,2010,Tamworth,160
+701,2010,Tandridge,381
+702,2010,Taunton Deane,288
+703,2010,Teignbridge,367
+704,2010,Telford and Wrekin,328
+705,2010,Tendring,324
+706,2010,Test Valley,308
+707,2010,Tewkesbury,192
+708,2010,Thanet,367
+709,2010,Three Rivers,209
+710,2010,Thurrock,420
+711,2010,Tonbridge and Malling,398
+712,2010,Torbay,349
+713,2010,Torfaen,121
+714,2010,Torridge,137
+715,2010,Tower Hamlets,876
+716,2010,Trafford,412
+717,2010,Tunbridge Wells,285
+718,2010,Uttlesford,167
+719,2010,Vale of Glamorgan,239
+720,2010,Vale of White Horse,294
+721,2010,Wakefield,802
+722,2010,Walsall,556
+723,2010,Waltham Forest,630
+724,2010,Wandsworth,915
+725,2010,Warrington,656
+726,2010,Warwick,310
+727,2010,Watford,218
+728,2010,Waveney,260
+729,2010,Waverley,343
+730,2010,Wealden,419
+731,2010,Wellingborough,155
+732,2010,Welwyn Hatfield,256
+733,2010,West Berkshire,322
+734,2010,West Devon,151
+735,2010,West Dorset,265
+736,2010,West Dunbartonshire,159
+737,2010,West Lancashire,332
+738,2010,West Lindsey,325
+739,2010,West Lothian,383
+740,2010,West Oxfordshire,211
+741,2010,West Somerset,74
+742,2010,Westminster,1402
+743,2010,Weymouth and Portland,153
+744,2010,Wigan,511
+745,2010,Wiltshire,894
+746,2010,Winchester,357
+747,2010,Windsor and Maidenhead,349
+748,2010,Wirral,613
+749,2010,Woking,269
+750,2010,Wokingham,304
+751,2010,Wolverhampton,512
+752,2010,Worcester,194
+753,2010,Worthing,219
+754,2010,Wrexham,311
+755,2010,Wychavon,283
+756,2010,Wycombe,376
+757,2010,Wyre,295
+758,2010,Wyre Forest,235
+759,2010,York,451
+760,2011,Aberdeen City,355
+761,2011,Aberdeenshire,517
+762,2011,Adur,144
+763,2011,Allerdale,223
+764,2011,Amber Valley,308
+765,2011,Angus,218
+766,2011,Argyll and Bute,224
+767,2011,Arun,264
+768,2011,Ashfield,310
+769,2011,Ashford,354
+770,2011,Aylesbury Vale,392
+771,2011,Babergh,265
+772,2011,Barking and Dagenham,472
+773,2011,Barnet,1047
+774,2011,Barnsley,559
+775,2011,Barrow-in-Furness,120
+776,2011,Basildon,355
+777,2011,Basingstoke and Deane,337
+778,2011,Bassetlaw,311
+779,2011,Bath and North East Somerset,385
+780,2011,Bedford,451
+781,2011,Bexley,445
+782,2011,Birmingham,2518
+783,2011,Blaby,248
+784,2011,Blackburn with Darwen,381
+785,2011,Blackpool,441
+786,2011,Blaenau Gwent,83
+787,2011,Bolsover,215
+788,2011,Bolton,532
+789,2011,Boston,244
+790,2011,Bournemouth,541
+791,2011,Bracknell Forest,224
+792,2011,Bradford,1305
+793,2011,Braintree,308
+794,2011,Breckland,258
+795,2011,Brent,797
+796,2011,Brentwood,195
+797,2011,Bridgend,237
+798,2011,Brighton and Hove,890
+799,2011,"Bristol, City of",1034
+800,2011,Broadland,252
+801,2011,Bromley,721
+802,2011,Bromsgrove,275
+803,2011,Broxbourne,218
+804,2011,Broxtowe,247
+805,2011,Burnley,228
+806,2011,Bury,338
+807,2011,Caerphilly,175
+808,2011,Calderdale,436
+809,2011,Cambridge,378
+810,2011,Camden,826
+811,2011,Cannock Chase,212
+812,2011,Canterbury,403
+813,2011,Cardiff,743
+814,2011,Carlisle,283
+815,2011,Carmarthenshire,495
+816,2011,Castle Point,164
+817,2011,Central Bedfordshire,627
+818,2011,Ceredigion,208
+819,2011,Charnwood,310
+820,2011,Chelmsford,435
+821,2011,Cheltenham,202
+822,2011,Cherwell,442
+823,2011,Cheshire East,1061
+824,2011,Cheshire West and Chester,951
+825,2011,Chesterfield,257
+826,2011,Chichester,345
+827,2011,Chiltern,139
+828,2011,Chorley,302
+829,2011,Christchurch,103
+830,2011,City of Edinburgh,1178
+831,2011,City of London,354
+832,2011,Clackmannanshire,64
+833,2011,Colchester,399
+834,2011,Conwy,280
+835,2011,Copeland,153
+836,2011,Corby,87
+837,2011,Cornwall,1375
+838,2011,Cotswold,226
+839,2011,County Durham,1150
+840,2011,Coventry,638
+841,2011,Craven,156
+842,2011,Crawley,219
+843,2011,Croydon,971
+844,2011,Dacorum,327
+845,2011,Darlington,237
+846,2011,Dartford,404
+847,2011,Daventry,157
+848,2011,Denbighshire,270
+849,2011,Derby,801
+850,2011,Derbyshire Dales,222
+851,2011,Doncaster,941
+852,2011,Dover,269
+853,2011,Dudley,445
+854,2011,Dumfries and Galloway,318
+855,2011,Dundee City,239
+856,2011,Ealing,825
+857,2011,East Ayrshire,203
+858,2011,East Cambridgeshire,198
+859,2011,East Devon,335
+860,2011,East Dorset,192
+861,2011,East Dunbartonshire,136
+862,2011,East Hampshire,260
+863,2011,East Hertfordshire,246
+864,2011,East Lindsey,484
+865,2011,East Lothian,160
+866,2011,East Northamptonshire,110
+867,2011,East Renfrewshire,113
+868,2011,East Riding of Yorkshire,850
+869,2011,East Staffordshire,338
+870,2011,Eastbourne,193
+871,2011,Eastleigh,301
+872,2011,Eden,193
+873,2011,Elmbridge,353
+874,2011,Enfield,834
+875,2011,Epping Forest,420
+876,2011,Epsom and Ewell,171
+877,2011,Erewash,278
+878,2011,Exeter,270
+879,2011,Falkirk,262
+880,2011,Fareham,307
+881,2011,Fenland,263
+882,2011,Fife,444
+883,2011,Flintshire,354
+884,2011,Forest Heath,176
+885,2011,Forest of Dean,152
+886,2011,Fylde,183
+887,2011,Gateshead,513
+888,2011,Gedling,274
+889,2011,Glasgow City,1271
+890,2011,Gloucester,258
+891,2011,Gosport,178
+892,2011,Gravesham,275
+893,2011,Great Yarmouth,183
+894,2011,Greenwich,735
+895,2011,Guildford,632
+896,2011,Gwynedd,278
+897,2011,Hackney,762
+898,2011,Halton,277
+899,2011,Hambleton,240
+900,2011,Hammersmith and Fulham,642
+901,2011,Harborough,206
+902,2011,Haringey,750
+903,2011,Harlow,139
+904,2011,Harrogate,468
+905,2011,Harrow,417
+906,2011,Hart,204
+907,2011,Hartlepool,140
+908,2011,Hastings,201
+909,2011,Havant,289
+910,2011,Havering,610
+911,2011,"Herefordshire, County of",457
+912,2011,Hertsmere,343
+913,2011,High Peak,196
+914,2011,Highland,488
+915,2011,Hillingdon,773
+916,2011,Hinckley and Bosworth,208
+917,2011,Horsham,289
+918,2011,Hounslow,799
+919,2011,Huntingdonshire,487
+920,2011,Hyndburn,212
+921,2011,Inverclyde,155
+922,2011,Ipswich,339
+923,2011,Isle of Anglesey,125
+924,2011,Isle of Wight,390
+925,2011,Isles of Scilly,1
+926,2011,Islington,844
+927,2011,Kensington and Chelsea,758
+928,2011,Kettering,181
+929,2011,King's Lynn and West Norfolk,327
+930,2011,"Kingston upon Hull, City of",800
+931,2011,Kingston upon Thames,379
+932,2011,Kirklees,1003
+933,2011,Knowsley,288
+934,2011,Lambeth,1114
+935,2011,Lancaster,420
+936,2011,Leeds,1932
+937,2011,Leicester,972
+938,2011,Lewes,231
+939,2011,Lewisham,885
+940,2011,Lichfield,294
+941,2011,Lincoln,292
+942,2011,Liverpool,1213
+943,2011,Luton,498
+944,2011,Maidstone,500
+945,2011,Maldon,144
+946,2011,Malvern Hills,182
+947,2011,Manchester,1381
+948,2011,Mansfield,268
+949,2011,Medway,655
+950,2011,Melton,122
+951,2011,Mendip,237
+952,2011,Merthyr Tydfil,112
+953,2011,Merton,416
+954,2011,Mid Devon,174
+955,2011,Mid Suffolk,226
+956,2011,Mid Sussex,393
+957,2011,Middlesbrough,284
+958,2011,Midlothian,177
+959,2011,Milton Keynes,670
+960,2011,Mole Valley,339
+961,2011,Monmouthshire,131
+962,2011,Moray,138
+963,2011,Na h-Eileanan Siar,32
+964,2011,Neath Port Talbot,283
+965,2011,New Forest,507
+966,2011,Newark and Sherwood,323
+967,2011,Newcastle upon Tyne,760
+968,2011,Newcastle-under-Lyme,304
+969,2011,Newham,748
+970,2011,Newport,233
+971,2011,North Ayrshire,230
+972,2011,North Devon,217
+973,2011,North Dorset,120
+974,2011,North East Derbyshire,266
+975,2011,North East Lincolnshire,506
+976,2011,North Hertfordshire,256
+977,2011,North Kesteven,343
+978,2011,North Lanarkshire,573
+979,2011,North Lincolnshire,519
+980,2011,North Norfolk,182
+981,2011,North Somerset,448
+982,2011,North Tyneside,433
+983,2011,North Warwickshire,313
+984,2011,North West Leicestershire,214
+985,2011,Northampton,394
+986,2011,Northumberland,818
+987,2011,Norwich,384
+988,2011,Nottingham,961
+989,2011,Nuneaton and Bedworth,249
+990,2011,Oadby and Wigston,112
+991,2011,Oldham,448
+992,2011,Orkney Islands,13
+993,2011,Oxford,367
+994,2011,Pembrokeshire,298
+995,2011,Pendle,199
+996,2011,Perth and Kinross,291
+997,2011,Peterborough,679
+998,2011,Plymouth,701
+999,2011,Poole,427
+1000,2011,Portsmouth,680
+1001,2011,Powys,403
+1002,2011,Preston,488
+1003,2011,Purbeck,136
+1004,2011,Reading,391
+1005,2011,Redbridge,727
+1006,2011,Redcar and Cleveland,228
+1007,2011,Redditch,150
+1008,2011,Reigate and Banstead,490
+1009,2011,Renfrewshire,353
+1010,2011,Rhondda Cynon Taf,481
+1011,2011,Ribble Valley,148
+1012,2011,Richmond upon Thames,438
+1013,2011,Richmondshire,146
+1014,2011,Rochdale,362
+1015,2011,Rochford,147
+1016,2011,Rossendale,177
+1017,2011,Rother,200
+1018,2011,Rotherham,674
+1019,2011,Rugby,273
+1020,2011,Runnymede,384
+1021,2011,Rushcliffe,290
+1022,2011,Rushmoor,212
+1023,2011,Rutland,80
+1024,2011,Ryedale,140
+1025,2011,Salford,452
+1026,2011,Sandwell,520
+1027,2011,Scarborough,229
+1028,2011,Scottish Borders,273
+1029,2011,Sedgemoor,247
+1030,2011,Sefton,544
+1031,2011,Selby,185
+1032,2011,Sevenoaks,339
+1033,2011,Sheffield,1233
+1034,2011,Shepway,242
+1035,2011,Shetland Islands,32
+1036,2011,Shropshire,690
+1037,2011,Slough,435
+1038,2011,Solihull,394
+1039,2011,South Ayrshire,215
+1040,2011,South Bucks,305
+1041,2011,South Cambridgeshire,410
+1042,2011,South Derbyshire,277
+1043,2011,South Gloucestershire,513
+1044,2011,South Hams,214
+1045,2011,South Holland,264
+1046,2011,South Kesteven,404
+1047,2011,South Lakeland,283
+1048,2011,South Lanarkshire,513
+1049,2011,South Norfolk,274
+1050,2011,South Northamptonshire,173
+1051,2011,South Oxfordshire,369
+1052,2011,South Ribble,298
+1053,2011,South Somerset,322
+1054,2011,South Staffordshire,354
+1055,2011,South Tyneside,295
+1056,2011,Southampton,668
+1057,2011,Southend-on-Sea,429
+1058,2011,Southwark,976
+1059,2011,Spelthorne,320
+1060,2011,St Albans,390
+1061,2011,St Edmundsbury,265
+1062,2011,St. Helens,355
+1063,2011,Stafford,410
+1064,2011,Staffordshire Moorlands,216
+1065,2011,Stevenage,175
+1066,2011,Stirling,219
+1067,2011,Stockport,440
+1068,2011,Stockton-on-Tees,334
+1069,2011,Stoke-on-Trent,784
+1070,2011,Stratford-on-Avon,338
+1071,2011,Stroud,168
+1072,2011,Suffolk Coastal,311
+1073,2011,Sunderland,599
+1074,2011,Surrey Heath,292
+1075,2011,Sutton,400
+1076,2011,Swale,385
+1077,2011,Swansea,618
+1078,2011,Swindon,432
+1079,2011,Tameside,328
+1080,2011,Tamworth,129
+1081,2011,Tandridge,374
+1082,2011,Taunton Deane,259
+1083,2011,Teignbridge,368
+1084,2011,Telford and Wrekin,320
+1085,2011,Tendring,298
+1086,2011,Test Valley,300
+1087,2011,Tewkesbury,187
+1088,2011,Thanet,383
+1089,2011,Three Rivers,229
+1090,2011,Thurrock,400
+1091,2011,Tonbridge and Malling,348
+1092,2011,Torbay,307
+1093,2011,Torfaen,84
+1094,2011,Torridge,111
+1095,2011,Tower Hamlets,892
+1096,2011,Trafford,376
+1097,2011,Tunbridge Wells,304
+1098,2011,Uttlesford,181
+1099,2011,Vale of Glamorgan,242
+1100,2011,Vale of White Horse,284
+1101,2011,Wakefield,726
+1102,2011,Walsall,399
+1103,2011,Waltham Forest,662
+1104,2011,Wandsworth,977
+1105,2011,Warrington,635
+1106,2011,Warwick,335
+1107,2011,Watford,223
+1108,2011,Waveney,260
+1109,2011,Waverley,347
+1110,2011,Wealden,378
+1111,2011,Wellingborough,151
+1112,2011,Welwyn Hatfield,240
+1113,2011,West Berkshire,384
+1114,2011,West Devon,170
+1115,2011,West Dorset,293
+1116,2011,West Dunbartonshire,147
+1117,2011,West Lancashire,303
+1118,2011,West Lindsey,323
+1119,2011,West Lothian,383
+1120,2011,West Oxfordshire,236
+1121,2011,West Somerset,85
+1122,2011,Westminster,1454
+1123,2011,Weymouth and Portland,110
+1124,2011,Wigan,472
+1125,2011,Wiltshire,979
+1126,2011,Winchester,362
+1127,2011,Windsor and Maidenhead,383
+1128,2011,Wirral,623
+1129,2011,Woking,307
+1130,2011,Wokingham,303
+1131,2011,Wolverhampton,444
+1132,2011,Worcester,217
+1133,2011,Worthing,240
+1134,2011,Wrexham,286
+1135,2011,Wychavon,312
+1136,2011,Wycombe,403
+1137,2011,Wyre,288
+1138,2011,Wyre Forest,232
+1139,2011,York,435
+1140,2012,Aberdeen City,371
+1141,2012,Aberdeenshire,527
+1142,2012,Adur,152
+1143,2012,Allerdale,245
+1144,2012,Amber Valley,276
+1145,2012,Angus,200
+1146,2012,Argyll and Bute,209
+1147,2012,Arun,269
+1148,2012,Ashfield,303
+1149,2012,Ashford,376
+1150,2012,Aylesbury Vale,388
+1151,2012,Babergh,231
+1152,2012,Barking and Dagenham,434
+1153,2012,Barnet,962
+1154,2012,Barnsley,521
+1155,2012,Barrow-in-Furness,123
+1156,2012,Basildon,397
+1157,2012,Basingstoke and Deane,321
+1158,2012,Bassetlaw,290
+1159,2012,Bath and North East Somerset,335
+1160,2012,Bedford,380
+1161,2012,Bexley,426
+1162,2012,Birmingham,2214
+1163,2012,Blaby,244
+1164,2012,Blackburn with Darwen,428
+1165,2012,Blackpool,454
+1166,2012,Blaenau Gwent,100
+1167,2012,Bolsover,212
+1168,2012,Bolton,485
+1169,2012,Boston,247
+1170,2012,Bournemouth,512
+1171,2012,Bracknell Forest,215
+1172,2012,Bradford,1306
+1173,2012,Braintree,289
+1174,2012,Breckland,261
+1175,2012,Brent,865
+1176,2012,Brentwood,192
+1177,2012,Bridgend,237
+1178,2012,Brighton and Hove,789
+1179,2012,"Bristol, City of",1071
+1180,2012,Broadland,235
+1181,2012,Bromley,688
+1182,2012,Bromsgrove,196
+1183,2012,Broxbourne,203
+1184,2012,Broxtowe,261
+1185,2012,Burnley,241
+1186,2012,Bury,326
+1187,2012,Caerphilly,192
+1188,2012,Calderdale,444
+1189,2012,Cambridge,379
+1190,2012,Camden,741
+1191,2012,Cannock Chase,244
+1192,2012,Canterbury,388
+1193,2012,Cardiff,615
+1194,2012,Carlisle,263
+1195,2012,Carmarthenshire,478
+1196,2012,Castle Point,174
+1197,2012,Central Bedfordshire,640
+1198,2012,Ceredigion,210
+1199,2012,Charnwood,283
+1200,2012,Chelmsford,382
+1201,2012,Cheltenham,173
+1202,2012,Cherwell,358
+1203,2012,Cheshire East,1060
+1204,2012,Cheshire West and Chester,880
+1205,2012,Chesterfield,238
+1206,2012,Chichester,326
+1207,2012,Chiltern,157
+1208,2012,Chorley,276
+1209,2012,Christchurch,119
+1210,2012,City of Edinburgh,1163
+1211,2012,City of London,375
+1212,2012,Clackmannanshire,83
+1213,2012,Colchester,390
+1214,2012,Conwy,272
+1215,2012,Copeland,183
+1216,2012,Corby,86
+1217,2012,Cornwall,1298
+1218,2012,Cotswold,196
+1219,2012,County Durham,1012
+1220,2012,Coventry,597
+1221,2012,Craven,160
+1222,2012,Crawley,246
+1223,2012,Croydon,958
+1224,2012,Dacorum,285
+1225,2012,Darlington,238
+1226,2012,Dartford,392
+1227,2012,Daventry,187
+1228,2012,Denbighshire,237
+1229,2012,Derby,657
+1230,2012,Derbyshire Dales,215
+1231,2012,Doncaster,855
+1232,2012,Dover,287
+1233,2012,Dudley,419
+1234,2012,Dumfries and Galloway,318
+1235,2012,Dundee City,228
+1236,2012,Ealing,927
+1237,2012,East Ayrshire,174
+1238,2012,East Cambridgeshire,186
+1239,2012,East Devon,317
+1240,2012,East Dorset,206
+1241,2012,East Dunbartonshire,112
+1242,2012,East Hampshire,245
+1243,2012,East Hertfordshire,312
+1244,2012,East Lindsey,510
+1245,2012,East Lothian,169
+1246,2012,East Northamptonshire,127
+1247,2012,East Renfrewshire,93
+1248,2012,East Riding of Yorkshire,793
+1249,2012,East Staffordshire,357
+1250,2012,Eastbourne,226
+1251,2012,Eastleigh,325
+1252,2012,Eden,165
+1253,2012,Elmbridge,379
+1254,2012,Enfield,793
+1255,2012,Epping Forest,375
+1256,2012,Epsom and Ewell,184
+1257,2012,Erewash,258
+1258,2012,Exeter,273
+1259,2012,Falkirk,272
+1260,2012,Fareham,284
+1261,2012,Fenland,253
+1262,2012,Fife,420
+1263,2012,Flintshire,338
+1264,2012,Forest Heath,170
+1265,2012,Forest of Dean,145
+1266,2012,Fylde,200
+1267,2012,Gateshead,488
+1268,2012,Gedling,238
+1269,2012,Glasgow City,1307
+1270,2012,Gloucester,223
+1271,2012,Gosport,150
+1272,2012,Gravesham,273
+1273,2012,Great Yarmouth,166
+1274,2012,Greenwich,611
+1275,2012,Guildford,615
+1276,2012,Gwynedd,267
+1277,2012,Hackney,838
+1278,2012,Halton,278
+1279,2012,Hambleton,290
+1280,2012,Hammersmith and Fulham,606
+1281,2012,Harborough,197
+1282,2012,Haringey,746
+1283,2012,Harlow,123
+1284,2012,Harrogate,457
+1285,2012,Harrow,422
+1286,2012,Hart,191
+1287,2012,Hartlepool,150
+1288,2012,Hastings,205
+1289,2012,Havant,275
+1290,2012,Havering,596
+1291,2012,"Herefordshire, County of",426
+1292,2012,Hertsmere,312
+1293,2012,High Peak,203
+1294,2012,Highland,452
+1295,2012,Hillingdon,835
+1296,2012,Hinckley and Bosworth,220
+1297,2012,Horsham,280
+1298,2012,Hounslow,735
+1299,2012,Huntingdonshire,426
+1300,2012,Hyndburn,199
+1301,2012,Inverclyde,136
+1302,2012,Ipswich,335
+1303,2012,Isle of Anglesey,101
+1304,2012,Isle of Wight,401
+1305,2012,Isles of Scilly,2
+1306,2012,Islington,783
+1307,2012,Kensington and Chelsea,702
+1308,2012,Kettering,171
+1309,2012,King's Lynn and West Norfolk,316
+1310,2012,"Kingston upon Hull, City of",802
+1311,2012,Kingston upon Thames,344
+1312,2012,Kirklees,1016
+1313,2012,Knowsley,331
+1314,2012,Lambeth,1046
+1315,2012,Lancaster,388
+1316,2012,Leeds,1930
+1317,2012,Leicester,985
+1318,2012,Lewes,218
+1319,2012,Lewisham,839
+1320,2012,Lichfield,282
+1321,2012,Lincoln,273
+1322,2012,Liverpool,1325
+1323,2012,Luton,456
+1324,2012,Maidstone,476
+1325,2012,Maldon,143
+1326,2012,Malvern Hills,184
+1327,2012,Manchester,1133
+1328,2012,Mansfield,248
+1329,2012,Medway,613
+1330,2012,Melton,112
+1331,2012,Mendip,201
+1332,2012,Merthyr Tydfil,95
+1333,2012,Merton,458
+1334,2012,Mid Devon,148
+1335,2012,Mid Suffolk,235
+1336,2012,Mid Sussex,332
+1337,2012,Middlesbrough,311
+1338,2012,Midlothian,215
+1339,2012,Milton Keynes,671
+1340,2012,Mole Valley,314
+1341,2012,Monmouthshire,121
+1342,2012,Moray,126
+1343,2012,Na h-Eileanan Siar,26
+1344,2012,Neath Port Talbot,260
+1345,2012,New Forest,475
+1346,2012,Newark and Sherwood,363
+1347,2012,Newcastle upon Tyne,706
+1348,2012,Newcastle-under-Lyme,279
+1349,2012,Newham,753
+1350,2012,Newport,235
+1351,2012,North Ayrshire,207
+1352,2012,North Devon,243
+1353,2012,North Dorset,113
+1354,2012,North East Derbyshire,244
+1355,2012,North East Lincolnshire,509
+1356,2012,North Hertfordshire,281
+1357,2012,North Kesteven,326
+1358,2012,North Lanarkshire,515
+1359,2012,North Lincolnshire,479
+1360,2012,North Norfolk,196
+1361,2012,North Somerset,417
+1362,2012,North Tyneside,434
+1363,2012,North Warwickshire,280
+1364,2012,North West Leicestershire,227
+1365,2012,Northampton,328
+1366,2012,Northumberland,759
+1367,2012,Norwich,327
+1368,2012,Nottingham,879
+1369,2012,Nuneaton and Bedworth,222
+1370,2012,Oadby and Wigston,117
+1371,2012,Oldham,333
+1372,2012,Orkney Islands,15
+1373,2012,Oxford,402
+1374,2012,Pembrokeshire,322
+1375,2012,Pendle,196
+1376,2012,Perth and Kinross,311
+1377,2012,Peterborough,655
+1378,2012,Plymouth,581
+1379,2012,Poole,386
+1380,2012,Portsmouth,633
+1381,2012,Powys,401
+1382,2012,Preston,468
+1383,2012,Purbeck,110
+1384,2012,Reading,331
+1385,2012,Redbridge,680
+1386,2012,Redcar and Cleveland,223
+1387,2012,Redditch,123
+1388,2012,Reigate and Banstead,513
+1389,2012,Renfrewshire,338
+1390,2012,Rhondda Cynon Taf,397
+1391,2012,Ribble Valley,143
+1392,2012,Richmond upon Thames,410
+1393,2012,Richmondshire,161
+1394,2012,Rochdale,309
+1395,2012,Rochford,166
+1396,2012,Rossendale,144
+1397,2012,Rother,236
+1398,2012,Rotherham,586
+1399,2012,Rugby,311
+1400,2012,Runnymede,374
+1401,2012,Rushcliffe,274
+1402,2012,Rushmoor,180
+1403,2012,Rutland,81
+1404,2012,Ryedale,162
+1405,2012,Salford,396
+1406,2012,Sandwell,474
+1407,2012,Scarborough,258
+1408,2012,Scottish Borders,263
+1409,2012,Sedgemoor,268
+1410,2012,Sefton,516
+1411,2012,Selby,189
+1412,2012,Sevenoaks,392
+1413,2012,Sheffield,1192
+1414,2012,Shepway,268
+1415,2012,Shetland Islands,26
+1416,2012,Shropshire,668
+1417,2012,Slough,413
+1418,2012,Solihull,314
+1419,2012,South Ayrshire,199
+1420,2012,South Bucks,289
+1421,2012,South Cambridgeshire,420
+1422,2012,South Derbyshire,221
+1423,2012,South Gloucestershire,491
+1424,2012,South Hams,245
+1425,2012,South Holland,265
+1426,2012,South Kesteven,341
+1427,2012,South Lakeland,265
+1428,2012,South Lanarkshire,452
+1429,2012,South Norfolk,262
+1430,2012,South Northamptonshire,181
+1431,2012,South Oxfordshire,332
+1432,2012,South Ribble,294
+1433,2012,South Somerset,330
+1434,2012,South Staffordshire,312
+1435,2012,South Tyneside,261
+1436,2012,Southampton,630
+1437,2012,Southend-on-Sea,395
+1438,2012,Southwark,943
+1439,2012,Spelthorne,336
+1440,2012,St Albans,378
+1441,2012,St Edmundsbury,272
+1442,2012,St. Helens,335
+1443,2012,Stafford,379
+1444,2012,Staffordshire Moorlands,213
+1445,2012,Stevenage,186
+1446,2012,Stirling,211
+1447,2012,Stockport,353
+1448,2012,Stockton-on-Tees,337
+1449,2012,Stoke-on-Trent,663
+1450,2012,Stratford-on-Avon,359
+1451,2012,Stroud,166
+1452,2012,Suffolk Coastal,279
+1453,2012,Sunderland,567
+1454,2012,Surrey Heath,308
+1455,2012,Sutton,379
+1456,2012,Swale,325
+1457,2012,Swansea,464
+1458,2012,Swindon,448
+1459,2012,Tameside,313
+1460,2012,Tamworth,129
+1461,2012,Tandridge,342
+1462,2012,Taunton Deane,215
+1463,2012,Teignbridge,323
+1464,2012,Telford and Wrekin,304
+1465,2012,Tendring,323
+1466,2012,Test Valley,304
+1467,2012,Tewkesbury,177
+1468,2012,Thanet,319
+1469,2012,Three Rivers,165
+1470,2012,Thurrock,403
+1471,2012,Tonbridge and Malling,378
+1472,2012,Torbay,304
+1473,2012,Torfaen,90
+1474,2012,Torridge,120
+1475,2012,Tower Hamlets,1006
+1476,2012,Trafford,314
+1477,2012,Tunbridge Wells,282
+1478,2012,Uttlesford,174
+1479,2012,Vale of Glamorgan,212
+1480,2012,Vale of White Horse,287
+1481,2012,Wakefield,720
+1482,2012,Walsall,349
+1483,2012,Waltham Forest,607
+1484,2012,Wandsworth,1014
+1485,2012,Warrington,603
+1486,2012,Warwick,323
+1487,2012,Watford,234
+1488,2012,Waveney,292
+1489,2012,Waverley,332
+1490,2012,Wealden,390
+1491,2012,Wellingborough,117
+1492,2012,Welwyn Hatfield,289
+1493,2012,West Berkshire,348
+1494,2012,West Devon,150
+1495,2012,West Dorset,284
+1496,2012,West Dunbartonshire,133
+1497,2012,West Lancashire,268
+1498,2012,West Lindsey,325
+1499,2012,West Lothian,379
+1500,2012,West Oxfordshire,228
+1501,2012,West Somerset,61
+1502,2012,Westminster,1539
+1503,2012,Weymouth and Portland,131
+1504,2012,Wigan,417
+1505,2012,Wiltshire,995
+1506,2012,Winchester,328
+1507,2012,Windsor and Maidenhead,389
+1508,2012,Wirral,540
+1509,2012,Woking,252
+1510,2012,Wokingham,276
+1511,2012,Wolverhampton,462
+1512,2012,Worcester,188
+1513,2012,Worthing,243
+1514,2012,Wrexham,317
+1515,2012,Wychavon,282
+1516,2012,Wycombe,342
+1517,2012,Wyre,238
+1518,2012,Wyre Forest,202
+1519,2012,York,424
+1520,2013,Aberdeen City,351
+1521,2013,Aberdeenshire,464
+1522,2013,Adur,136
+1523,2013,Allerdale,233
+1524,2013,Amber Valley,234
+1525,2013,Angus,178
+1526,2013,Argyll and Bute,206
+1527,2013,Arun,302
+1528,2013,Ashfield,283
+1529,2013,Ashford,379
+1530,2013,Aylesbury Vale,356
+1531,2013,Babergh,221
+1532,2013,Barking and Dagenham,425
+1533,2013,Barnet,928
+1534,2013,Barnsley,460
+1535,2013,Barrow-in-Furness,118
+1536,2013,Basildon,384
+1537,2013,Basingstoke and Deane,346
+1538,2013,Bassetlaw,271
+1539,2013,Bath and North East Somerset,321
+1540,2013,Bedford,359
+1541,2013,Bexley,399
+1542,2013,Birmingham,2438
+1543,2013,Blaby,235
+1544,2013,Blackburn with Darwen,412
+1545,2013,Blackpool,422
+1546,2013,Blaenau Gwent,105
+1547,2013,Bolsover,207
+1548,2013,Bolton,423
+1549,2013,Boston,239
+1550,2013,Bournemouth,510
+1551,2013,Bracknell Forest,210
+1552,2013,Bradford,1159
+1553,2013,Braintree,237
+1554,2013,Breckland,229
+1555,2013,Brent,830
+1556,2013,Brentwood,188
+1557,2013,Bridgend,238
+1558,2013,Brighton and Hove,738
+1559,2013,"Bristol, City of",933
+1560,2013,Broadland,243
+1561,2013,Bromley,664
+1562,2013,Bromsgrove,201
+1563,2013,Broxbourne,170
+1564,2013,Broxtowe,229
+1565,2013,Burnley,211
+1566,2013,Bury,266
+1567,2013,Caerphilly,225
+1568,2013,Calderdale,409
+1569,2013,Cambridge,347
+1570,2013,Camden,760
+1571,2013,Cannock Chase,207
+1572,2013,Canterbury,351
+1573,2013,Cardiff,636
+1574,2013,Carlisle,266
+1575,2013,Carmarthenshire,450
+1576,2013,Castle Point,154
+1577,2013,Central Bedfordshire,571
+1578,2013,Ceredigion,181
+1579,2013,Charnwood,306
+1580,2013,Chelmsford,377
+1581,2013,Cheltenham,127
+1582,2013,Cherwell,403
+1583,2013,Cheshire East,1005
+1584,2013,Cheshire West and Chester,747
+1585,2013,Chesterfield,211
+1586,2013,Chichester,320
+1587,2013,Chiltern,135
+1588,2013,Chorley,295
+1589,2013,Christchurch,104
+1590,2013,City of Edinburgh,1159
+1591,2013,City of London,311
+1592,2013,Clackmannanshire,69
+1593,2013,Colchester,388
+1594,2013,Conwy,250
+1595,2013,Copeland,168
+1596,2013,Corby,79
+1597,2013,Cornwall,1283
+1598,2013,Cotswold,186
+1599,2013,County Durham,950
+1600,2013,Coventry,576
+1601,2013,Craven,177
+1602,2013,Crawley,239
+1603,2013,Croydon,896
+1604,2013,Dacorum,240
+1605,2013,Darlington,230
+1606,2013,Dartford,403
+1607,2013,Daventry,203
+1608,2013,Denbighshire,216
+1609,2013,Derby,630
+1610,2013,Derbyshire Dales,221
+1611,2013,Doncaster,796
+1612,2013,Dover,306
+1613,2013,Dudley,417
+1614,2013,Dumfries and Galloway,297
+1615,2013,Dundee City,185
+1616,2013,Ealing,942
+1617,2013,East Ayrshire,164
+1618,2013,East Cambridgeshire,186
+1619,2013,East Devon,300
+1620,2013,East Dorset,195
+1621,2013,East Dunbartonshire,101
+1622,2013,East Hampshire,239
+1623,2013,East Hertfordshire,239
+1624,2013,East Lindsey,504
+1625,2013,East Lothian,153
+1626,2013,East Northamptonshire,119
+1627,2013,East Renfrewshire,97
+1628,2013,East Riding of Yorkshire,805
+1629,2013,East Staffordshire,318
+1630,2013,Eastbourne,209
+1631,2013,Eastleigh,280
+1632,2013,Eden,162
+1633,2013,Elmbridge,376
+1634,2013,Enfield,754
+1635,2013,Epping Forest,398
+1636,2013,Epsom and Ewell,166
+1637,2013,Erewash,201
+1638,2013,Exeter,244
+1639,2013,Falkirk,252
+1640,2013,Fareham,234
+1641,2013,Fenland,214
+1642,2013,Fife,419
+1643,2013,Flintshire,355
+1644,2013,Forest Heath,147
+1645,2013,Forest of Dean,101
+1646,2013,Fylde,215
+1647,2013,Gateshead,462
+1648,2013,Gedling,223
+1649,2013,Glasgow City,1073
+1650,2013,Gloucester,139
+1651,2013,Gosport,151
+1652,2013,Gravesham,287
+1653,2013,Great Yarmouth,145
+1654,2013,Greenwich,544
+1655,2013,Guildford,548
+1656,2013,Gwynedd,263
+1657,2013,Hackney,776
+1658,2013,Halton,265
+1659,2013,Hambleton,234
+1660,2013,Hammersmith and Fulham,578
+1661,2013,Harborough,190
+1662,2013,Haringey,767
+1663,2013,Harlow,117
+1664,2013,Harrogate,458
+1665,2013,Harrow,396
+1666,2013,Hart,186
+1667,2013,Hartlepool,142
+1668,2013,Hastings,203
+1669,2013,Havant,225
+1670,2013,Havering,530
+1671,2013,"Herefordshire, County of",376
+1672,2013,Hertsmere,306
+1673,2013,High Peak,183
+1674,2013,Highland,438
+1675,2013,Hillingdon,574
+1676,2013,Hinckley and Bosworth,193
+1677,2013,Horsham,321
+1678,2013,Hounslow,751
+1679,2013,Huntingdonshire,366
+1680,2013,Hyndburn,199
+1681,2013,Inverclyde,120
+1682,2013,Ipswich,323
+1683,2013,Isle of Anglesey,106
+1684,2013,Isle of Wight,330
+1685,2013,Isles of Scilly,3
+1686,2013,Islington,762
+1687,2013,Kensington and Chelsea,693
+1688,2013,Kettering,158
+1689,2013,King's Lynn and West Norfolk,324
+1690,2013,"Kingston upon Hull, City of",801
+1691,2013,Kingston upon Thames,394
+1692,2013,Kirklees,876
+1693,2013,Knowsley,275
+1694,2013,Lambeth,1161
+1695,2013,Lancaster,357
+1696,2013,Leeds,1788
+1697,2013,Leicester,923
+1698,2013,Lewes,214
+1699,2013,Lewisham,812
+1700,2013,Lichfield,271
+1701,2013,Lincoln,304
+1702,2013,Liverpool,1065
+1703,2013,Luton,374
+1704,2013,Maidstone,473
+1705,2013,Maldon,135
+1706,2013,Malvern Hills,155
+1707,2013,Manchester,1014
+1708,2013,Mansfield,221
+1709,2013,Medway,617
+1710,2013,Melton,129
+1711,2013,Mendip,220
+1712,2013,Merthyr Tydfil,92
+1713,2013,Merton,446
+1714,2013,Mid Devon,154
+1715,2013,Mid Suffolk,226
+1716,2013,Mid Sussex,373
+1717,2013,Middlesbrough,266
+1718,2013,Midlothian,163
+1719,2013,Milton Keynes,706
+1720,2013,Mole Valley,344
+1721,2013,Monmouthshire,155
+1722,2013,Moray,123
+1723,2013,Na h-Eileanan Siar,21
+1724,2013,Neath Port Talbot,259
+1725,2013,New Forest,463
+1726,2013,Newark and Sherwood,284
+1727,2013,Newcastle upon Tyne,649
+1728,2013,Newcastle-under-Lyme,290
+1729,2013,Newham,710
+1730,2013,Newport,267
+1731,2013,North Ayrshire,191
+1732,2013,North Devon,206
+1733,2013,North Dorset,109
+1734,2013,North East Derbyshire,211
+1735,2013,North East Lincolnshire,457
+1736,2013,North Hertfordshire,253
+1737,2013,North Kesteven,338
+1738,2013,North Lanarkshire,514
+1739,2013,North Lincolnshire,510
+1740,2013,North Norfolk,161
+1741,2013,North Somerset,402
+1742,2013,North Tyneside,405
+1743,2013,North Warwickshire,294
+1744,2013,North West Leicestershire,251
+1745,2013,Northampton,334
+1746,2013,Northumberland,696
+1747,2013,Norwich,380
+1748,2013,Nottingham,866
+1749,2013,Nuneaton and Bedworth,254
+1750,2013,Oadby and Wigston,85
+1751,2013,Oldham,333
+1752,2013,Orkney Islands,23
+1753,2013,Oxford,365
+1754,2013,Pembrokeshire,246
+1755,2013,Pendle,160
+1756,2013,Perth and Kinross,278
+1757,2013,Peterborough,592
+1758,2013,Plymouth,631
+1759,2013,Poole,360
+1760,2013,Portsmouth,605
+1761,2013,Powys,355
+1762,2013,Preston,378
+1763,2013,Purbeck,107
+1764,2013,Reading,362
+1765,2013,Redbridge,651
+1766,2013,Redcar and Cleveland,197
+1767,2013,Redditch,95
+1768,2013,Reigate and Banstead,438
+1769,2013,Renfrewshire,255
+1770,2013,Rhondda Cynon Taf,426
+1771,2013,Ribble Valley,142
+1772,2013,Richmond upon Thames,441
+1773,2013,Richmondshire,152
+1774,2013,Rochdale,256
+1775,2013,Rochford,161
+1776,2013,Rossendale,146
+1777,2013,Rother,240
+1778,2013,Rotherham,633
+1779,2013,Rugby,267
+1780,2013,Runnymede,350
+1781,2013,Rushcliffe,267
+1782,2013,Rushmoor,190
+1783,2013,Rutland,82
+1784,2013,Ryedale,167
+1785,2013,Salford,363
+1786,2013,Sandwell,538
+1787,2013,Scarborough,222
+1788,2013,Scottish Borders,257
+1789,2013,Sedgemoor,278
+1790,2013,Sefton,446
+1791,2013,Selby,194
+1792,2013,Sevenoaks,399
+1793,2013,Sheffield,1103
+1794,2013,Shepway,234
+1795,2013,Shetland Islands,24
+1796,2013,Shropshire,589
+1797,2013,Slough,395
+1798,2013,Solihull,295
+1799,2013,South Ayrshire,189
+1800,2013,South Bucks,274
+1801,2013,South Cambridgeshire,360
+1802,2013,South Derbyshire,186
+1803,2013,South Gloucestershire,491
+1804,2013,South Hams,210
+1805,2013,South Holland,297
+1806,2013,South Kesteven,335
+1807,2013,South Lakeland,278
+1808,2013,South Lanarkshire,451
+1809,2013,South Norfolk,291
+1810,2013,South Northamptonshire,187
+1811,2013,South Oxfordshire,276
+1812,2013,South Ribble,291
+1813,2013,South Somerset,333
+1814,2013,South Staffordshire,291
+1815,2013,South Tyneside,246
+1816,2013,Southampton,605
+1817,2013,Southend-on-Sea,420
+1818,2013,Southwark,868
+1819,2013,Spelthorne,278
+1820,2013,St Albans,341
+1821,2013,St Edmundsbury,208
+1822,2013,St. Helens,343
+1823,2013,Stafford,368
+1824,2013,Staffordshire Moorlands,246
+1825,2013,Stevenage,148
+1826,2013,Stirling,239
+1827,2013,Stockport,333
+1828,2013,Stockton-on-Tees,314
+1829,2013,Stoke-on-Trent,699
+1830,2013,Stratford-on-Avon,344
+1831,2013,Stroud,115
+1832,2013,Suffolk Coastal,294
+1833,2013,Sunderland,579
+1834,2013,Surrey Heath,312
+1835,2013,Sutton,392
+1836,2013,Swale,370
+1837,2013,Swansea,473
+1838,2013,Swindon,394
+1839,2013,Tameside,254
+1840,2013,Tamworth,116
+1841,2013,Tandridge,351
+1842,2013,Taunton Deane,255
+1843,2013,Teignbridge,304
+1844,2013,Telford and Wrekin,246
+1845,2013,Tendring,326
+1846,2013,Test Valley,270
+1847,2013,Tewkesbury,107
+1848,2013,Thanet,390
+1849,2013,Three Rivers,169
+1850,2013,Thurrock,363
+1851,2013,Tonbridge and Malling,338
+1852,2013,Torbay,297
+1853,2013,Torfaen,116
+1854,2013,Torridge,139
+1855,2013,Tower Hamlets,936
+1856,2013,Trafford,289
+1857,2013,Tunbridge Wells,321
+1858,2013,Uttlesford,206
+1859,2013,Vale of Glamorgan,221
+1860,2013,Vale of White Horse,240
+1861,2013,Wakefield,633
+1862,2013,Walsall,394
+1863,2013,Waltham Forest,556
+1864,2013,Wandsworth,900
+1865,2013,Warrington,534
+1866,2013,Warwick,324
+1867,2013,Watford,194
+1868,2013,Waveney,240
+1869,2013,Waverley,334
+1870,2013,Wealden,429
+1871,2013,Wellingborough,126
+1872,2013,Welwyn Hatfield,261
+1873,2013,West Berkshire,326
+1874,2013,West Devon,149
+1875,2013,West Dorset,250
+1876,2013,West Dunbartonshire,143
+1877,2013,West Lancashire,264
+1878,2013,West Lindsey,290
+1879,2013,West Lothian,369
+1880,2013,West Oxfordshire,221
+1881,2013,West Somerset,71
+1882,2013,Westminster,1521
+1883,2013,Weymouth and Portland,138
+1884,2013,Wigan,334
+1885,2013,Wiltshire,1083
+1886,2013,Winchester,346
+1887,2013,Windsor and Maidenhead,368
+1888,2013,Wirral,530
+1889,2013,Woking,283
+1890,2013,Wokingham,251
+1891,2013,Wolverhampton,450
+1892,2013,Worcester,170
+1893,2013,Worthing,224
+1894,2013,Wrexham,254
+1895,2013,Wychavon,241
+1896,2013,Wycombe,308
+1897,2013,Wyre,257
+1898,2013,Wyre Forest,185
+1899,2013,York,421
+1900,2014,Aberdeen City,269
+1901,2014,Aberdeenshire,414
+1902,2014,Adur,168
+1903,2014,Allerdale,270
+1904,2014,Amber Valley,241
+1905,2014,Angus,141
+1906,2014,Argyll and Bute,188
+1907,2014,Arun,354
+1908,2014,Ashfield,290
+1909,2014,Ashford,352
+1910,2014,Aylesbury Vale,389
+1911,2014,Babergh,290
+1912,2014,Barking and Dagenham,509
+1913,2014,Barnet,920
+1914,2014,Barnsley,562
+1915,2014,Barrow-in-Furness,156
+1916,2014,Basildon,460
+1917,2014,Basingstoke and Deane,332
+1918,2014,Bassetlaw,261
+1919,2014,Bath and North East Somerset,283
+1920,2014,Bedford,442
+1921,2014,Bexley,451
+1922,2014,Birmingham,2642
+1923,2014,Blaby,262
+1924,2014,Blackburn with Darwen,397
+1925,2014,Blackpool,399
+1926,2014,Blaenau Gwent,99
+1927,2014,Bolsover,184
+1928,2014,Bolton,452
+1929,2014,Boston,205
+1930,2014,Bournemouth,518
+1931,2014,Bracknell Forest,191
+1932,2014,Bradford,1243
+1933,2014,Braintree,312
+1934,2014,Breckland,275
+1935,2014,Brent,958
+1936,2014,Brentwood,193
+1937,2014,Bridgend,241
+1938,2014,Brighton and Hove,792
+1939,2014,"Bristol, City of",1022
+1940,2014,Broadland,260
+1941,2014,Bromley,759
+1942,2014,Bromsgrove,173
+1943,2014,Broxbourne,213
+1944,2014,Broxtowe,265
+1945,2014,Burnley,234
+1946,2014,Bury,238
+1947,2014,Caerphilly,207
+1948,2014,Calderdale,427
+1949,2014,Cambridge,387
+1950,2014,Camden,873
+1951,2014,Cannock Chase,222
+1952,2014,Canterbury,416
+1953,2014,Cardiff,639
+1954,2014,Carlisle,300
+1955,2014,Carmarthenshire,409
+1956,2014,Castle Point,172
+1957,2014,Central Bedfordshire,681
+1958,2014,Ceredigion,174
+1959,2014,Charnwood,312
+1960,2014,Chelmsford,351
+1961,2014,Cheltenham,130
+1962,2014,Cherwell,431
+1963,2014,Cheshire East,984
+1964,2014,Cheshire West and Chester,847
+1965,2014,Chesterfield,195
+1966,2014,Chichester,350
+1967,2014,Chiltern,138
+1968,2014,Chorley,280
+1969,2014,Christchurch,96
+1970,2014,City of Edinburgh,1258
+1971,2014,City of London,363
+1972,2014,Clackmannanshire,62
+1973,2014,Colchester,403
+1974,2014,Conwy,290
+1975,2014,Copeland,204
+1976,2014,Corby,86
+1977,2014,Cornwall,1307
+1978,2014,Cotswold,156
+1979,2014,County Durham,1013
+1980,2014,Coventry,609
+1981,2014,Craven,177
+1982,2014,Crawley,270
+1983,2014,Croydon,981
+1984,2014,Dacorum,239
+1985,2014,Darlington,229
+1986,2014,Dartford,452
+1987,2014,Daventry,183
+1988,2014,Denbighshire,217
+1989,2014,Derby,657
+1990,2014,Derbyshire Dales,205
+1991,2014,Doncaster,827
+1992,2014,Dover,254
+1993,2014,Dudley,461
+1994,2014,Dumfries and Galloway,309
+1995,2014,Dundee City,152
+1996,2014,Ealing,1044
+1997,2014,East Ayrshire,164
+1998,2014,East Cambridgeshire,182
+1999,2014,East Devon,307
+2000,2014,East Dorset,214
+2001,2014,East Dunbartonshire,102
+2002,2014,East Hampshire,248
+2003,2014,East Hertfordshire,292
+2004,2014,East Lindsey,474
+2005,2014,East Lothian,180
+2006,2014,East Northamptonshire,117
+2007,2014,East Renfrewshire,93
+2008,2014,East Riding of Yorkshire,838
+2009,2014,East Staffordshire,345
+2010,2014,Eastbourne,232
+2011,2014,Eastleigh,271
+2012,2014,Eden,164
+2013,2014,Elmbridge,360
+2014,2014,Enfield,784
+2015,2014,Epping Forest,438
+2016,2014,Epsom and Ewell,177
+2017,2014,Erewash,240
+2018,2014,Exeter,227
+2019,2014,Falkirk,226
+2020,2014,Fareham,275
+2021,2014,Fenland,247
+2022,2014,Fife,405
+2023,2014,Flintshire,281
+2024,2014,Forest Heath,164
+2025,2014,Forest of Dean,101
+2026,2014,Fylde,222
+2027,2014,Gateshead,497
+2028,2014,Gedling,237
+2029,2014,Glasgow City,1236
+2030,2014,Gloucester,161
+2031,2014,Gosport,147
+2032,2014,Gravesham,289
+2033,2014,Great Yarmouth,176
+2034,2014,Greenwich,619
+2035,2014,Guildford,590
+2036,2014,Gwynedd,257
+2037,2014,Hackney,857
+2038,2014,Halton,277
+2039,2014,Hambleton,246
+2040,2014,Hammersmith and Fulham,665
+2041,2014,Harborough,186
+2042,2014,Haringey,899
+2043,2014,Harlow,151
+2044,2014,Harrogate,446
+2045,2014,Harrow,528
+2046,2014,Hart,210
+2047,2014,Hartlepool,144
+2048,2014,Hastings,224
+2049,2014,Havant,226
+2050,2014,Havering,595
+2051,2014,"Herefordshire, County of",391
+2052,2014,Hertsmere,338
+2053,2014,High Peak,226
+2054,2014,Highland,427
+2055,2014,Hillingdon,737
+2056,2014,Hinckley and Bosworth,230
+2057,2014,Horsham,316
+2058,2014,Hounslow,897
+2059,2014,Huntingdonshire,365
+2060,2014,Hyndburn,206
+2061,2014,Inverclyde,130
+2062,2014,Ipswich,321
+2063,2014,Isle of Anglesey,108
+2064,2014,Isle of Wight,326
+2065,2014,Isles of Scilly,2
+2066,2014,Islington,850
+2067,2014,Kensington and Chelsea,762
+2068,2014,Kettering,191
+2069,2014,King's Lynn and West Norfolk,303
+2070,2014,"Kingston upon Hull, City of",791
+2071,2014,Kingston upon Thames,401
+2072,2014,Kirklees,788
+2073,2014,Knowsley,270
+2074,2014,Lambeth,1240
+2075,2014,Lancaster,399
+2076,2014,Leeds,1939
+2077,2014,Leicester,941
+2078,2014,Lewes,242
+2079,2014,Lewisham,923
+2080,2014,Lichfield,272
+2081,2014,Lincoln,283
+2082,2014,Liverpool,1242
+2083,2014,Luton,453
+2084,2014,Maidstone,540
+2085,2014,Maldon,137
+2086,2014,Malvern Hills,178
+2087,2014,Manchester,1016
+2088,2014,Mansfield,271
+2089,2014,Medway,658
+2090,2014,Melton,121
+2091,2014,Mendip,204
+2092,2014,Merthyr Tydfil,115
+2093,2014,Merton,518
+2094,2014,Mid Devon,139
+2095,2014,Mid Suffolk,197
+2096,2014,Mid Sussex,371
+2097,2014,Middlesbrough,283
+2098,2014,Midlothian,187
+2099,2014,Milton Keynes,686
+2100,2014,Mole Valley,336
+2101,2014,Monmouthshire,133
+2102,2014,Moray,93
+2103,2014,Na h-Eileanan Siar,34
+2104,2014,Neath Port Talbot,238
+2105,2014,New Forest,419
+2106,2014,Newark and Sherwood,325
+2107,2014,Newcastle upon Tyne,721
+2108,2014,Newcastle-under-Lyme,294
+2109,2014,Newham,815
+2110,2014,Newport,301
+2111,2014,North Ayrshire,179
+2112,2014,North Devon,254
+2113,2014,North Dorset,96
+2114,2014,North East Derbyshire,233
+2115,2014,North East Lincolnshire,516
+2116,2014,North Hertfordshire,290
+2117,2014,North Kesteven,329
+2118,2014,North Lanarkshire,482
+2119,2014,North Lincolnshire,540
+2120,2014,North Norfolk,155
+2121,2014,North Somerset,370
+2122,2014,North Tyneside,402
+2123,2014,North Warwickshire,268
+2124,2014,North West Leicestershire,250
+2125,2014,Northampton,392
+2126,2014,Northumberland,717
+2127,2014,Norwich,404
+2128,2014,Nottingham,974
+2129,2014,Nuneaton and Bedworth,306
+2130,2014,Oadby and Wigston,88
+2131,2014,Oldham,367
+2132,2014,Orkney Islands,23
+2133,2014,Oxford,451
+2134,2014,Pembrokeshire,276
+2135,2014,Pendle,182
+2136,2014,Perth and Kinross,214
+2137,2014,Peterborough,506
+2138,2014,Plymouth,594
+2139,2014,Poole,397
+2140,2014,Portsmouth,588
+2141,2014,Powys,391
+2142,2014,Preston,463
+2143,2014,Purbeck,125
+2144,2014,Reading,355
+2145,2014,Redbridge,750
+2146,2014,Redcar and Cleveland,185
+2147,2014,Redditch,97
+2148,2014,Reigate and Banstead,470
+2149,2014,Renfrewshire,257
+2150,2014,Rhondda Cynon Taf,409
+2151,2014,Ribble Valley,127
+2152,2014,Richmond upon Thames,509
+2153,2014,Richmondshire,154
+2154,2014,Rochdale,323
+2155,2014,Rochford,172
+2156,2014,Rossendale,164
+2157,2014,Rother,298
+2158,2014,Rotherham,559
+2159,2014,Rugby,359
+2160,2014,Runnymede,382
+2161,2014,Rushcliffe,256
+2162,2014,Rushmoor,203
+2163,2014,Rutland,91
+2164,2014,Ryedale,153
+2165,2014,Salford,394
+2166,2014,Sandwell,607
+2167,2014,Scarborough,218
+2168,2014,Scottish Borders,222
+2169,2014,Sedgemoor,277
+2170,2014,Sefton,479
+2171,2014,Selby,170
+2172,2014,Sevenoaks,385
+2173,2014,Sheffield,1223
+2174,2014,Shepway,310
+2175,2014,Shetland Islands,23
+2176,2014,Shropshire,614
+2177,2014,Slough,433
+2178,2014,Solihull,279
+2179,2014,South Ayrshire,199
+2180,2014,South Bucks,247
+2181,2014,South Cambridgeshire,364
+2182,2014,South Derbyshire,218
+2183,2014,South Gloucestershire,424
+2184,2014,South Hams,232
+2185,2014,South Holland,285
+2186,2014,South Kesteven,350
+2187,2014,South Lakeland,303
+2188,2014,South Lanarkshire,502
+2189,2014,South Norfolk,307
+2190,2014,South Northamptonshire,191
+2191,2014,South Oxfordshire,281
+2192,2014,South Ribble,283
+2193,2014,South Somerset,360
+2194,2014,South Staffordshire,334
+2195,2014,South Tyneside,279
+2196,2014,Southampton,631
+2197,2014,Southend-on-Sea,452
+2198,2014,Southwark,1012
+2199,2014,Spelthorne,350
+2200,2014,St Albans,333
+2201,2014,St Edmundsbury,228
+2202,2014,St. Helens,308
+2203,2014,Stafford,347
+2204,2014,Staffordshire Moorlands,224
+2205,2014,Stevenage,164
+2206,2014,Stirling,166
+2207,2014,Stockport,301
+2208,2014,Stockton-on-Tees,277
+2209,2014,Stoke-on-Trent,637
+2210,2014,Stratford-on-Avon,399
+2211,2014,Stroud,133
+2212,2014,Suffolk Coastal,310
+2213,2014,Sunderland,568
+2214,2014,Surrey Heath,290
+2215,2014,Sutton,366
+2216,2014,Swale,419
+2217,2014,Swansea,447
+2218,2014,Swindon,417
+2219,2014,Tameside,295
+2220,2014,Tamworth,123
+2221,2014,Tandridge,364
+2222,2014,Taunton Deane,239
+2223,2014,Teignbridge,335
+2224,2014,Telford and Wrekin,292
+2225,2014,Tendring,291
+2226,2014,Test Valley,297
+2227,2014,Tewkesbury,115
+2228,2014,Thanet,428
+2229,2014,Three Rivers,199
+2230,2014,Thurrock,395
+2231,2014,Tonbridge and Malling,420
+2232,2014,Torbay,299
+2233,2014,Torfaen,135
+2234,2014,Torridge,125
+2235,2014,Tower Hamlets,1051
+2236,2014,Trafford,300
+2237,2014,Tunbridge Wells,347
+2238,2014,Uttlesford,194
+2239,2014,Vale of Glamorgan,232
+2240,2014,Vale of White Horse,285
+2241,2014,Wakefield,643
+2242,2014,Walsall,514
+2243,2014,Waltham Forest,752
+2244,2014,Wandsworth,1029
+2245,2014,Warrington,554
+2246,2014,Warwick,328
+2247,2014,Watford,239
+2248,2014,Waveney,244
+2249,2014,Waverley,352
+2250,2014,Wealden,419
+2251,2014,Wellingborough,145
+2252,2014,Welwyn Hatfield,324
+2253,2014,West Berkshire,327
+2254,2014,West Devon,134
+2255,2014,West Dorset,262
+2256,2014,West Dunbartonshire,110
+2257,2014,West Lancashire,283
+2258,2014,West Lindsey,264
+2259,2014,West Lothian,313
+2260,2014,West Oxfordshire,244
+2261,2014,West Somerset,83
+2262,2014,Westminster,1580
+2263,2014,Weymouth and Portland,118
+2264,2014,Wigan,327
+2265,2014,Wiltshire,1157
+2266,2014,Winchester,353
+2267,2014,Windsor and Maidenhead,354
+2268,2014,Wirral,530
+2269,2014,Woking,284
+2270,2014,Wokingham,265
+2271,2014,Wolverhampton,475
+2272,2014,Worcester,166
+2273,2014,Worthing,261
+2274,2014,Wrexham,261
+2275,2014,Wychavon,239
+2276,2014,Wycombe,350
+2277,2014,Wyre,235
+2278,2014,Wyre Forest,187
+2279,2014,York,471
